@@ -2,47 +2,20 @@
 <div align="center">
 
   <!-- Personalized Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=800&lines=⚡+Hey%2C+I'm+Ironmac17+⚡;⚽+Football+Fan+|+🏏+Cricket+Lover;💻+Full-Stack+Developer+|+🤖+ML+Explorer" alt="Ironmac17 Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=800&lines=⚡+Hey%2C+I'm+Nimsh+Agrawa;⚡;UI/UX Designer;💻+Full-Stack+Developer+|+🤖+ML+Explorer" alt="Ironmac17 Banner" />
 
 </div>
 
----
-
-## 🏏⚽ Sports Meets Tech  
-
-<div align="center">
-  
-💡 *Blending my love for sports with code to create analytics, prediction models, and fan engagement projects.*  
-
-</div>
-
----
 
 ## 👋 About Me  
 
-I'm Ironmac17, a passionate engineering student with a strong interest in web development, UI/UX, and database management. I enjoy building meaningful applications that bring ideas to life—whether it's through intuitive user interfaces, clean backend logic, or creative digital design.  
+I'm Nimish Agrawal, a passionate engineering student with a strong interest in web development, UI/UX, and database management. I enjoy building meaningful applications that bring ideas to life—whether it's through intuitive user interfaces, clean backend logic, or creative digital design.  
 
 Over the past few years, I’ve worked on projects that span full-stack web development, database systems, and event management. Along the way, I’ve also developed strong leadership and organizational skills through hands-on experience in managing teams, marketing large events, and mentoring juniors.  
 
 I believe in learning by doing, constantly improving my technical expertise while also sharpening my soft skills. My goal is to keep building solutions that are not only functional but also engaging and impactful.  
 
 🚀 Always learning. Always creating. Always improving.  
-
----
-
-## ⚡ Skills with Style  
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF5722?style=for-the-badge&logo=tensorflow&logoColor=white)  
-
-</div>
 
 ---
 
