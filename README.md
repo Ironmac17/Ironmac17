@@ -1,14 +1,8 @@
-<!-- INTRO ANIMATION -->
+<!-- INTRO BANNER -->
 <div align="center">
 
-  <!-- Football Kick Animation -->
-  <img src="https://media.giphy.com/media/5xaOcLT5ZC0u6Zb0Qd6/giphy.gif" width="250" alt="Football Kick" />
-  
-  <h1>⚡ Hey, I'm Ironmac17 ⚡</h1>
-  <h3>⚽ Football Fan | 🏏 Cricket Lover | 💻 Full-Stack Developer | 🤖 ML Explorer</h3>
-
-  <!-- Typing Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=⚽+Kicking+Goals+in+Football...;💻+Scoring+Bugs+in+Code...;🤖+Bowling+AI+Models+in+ML...;🚀+Building+Tech+One+Shot+at+a+Time." />
+  <!-- Custom Banner with Name Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=800&lines=⚡+Hey%2C+I'm+Ironmac17+⚡;⚽+Football+Fan+|+🏏+Cricket+Lover;💻+Full-Stack+Developer+|+🤖+ML+Explorer" alt="Ironmac17 Banner" />
 
 </div>
 
@@ -17,31 +11,24 @@
 ## 🏏⚽ Sports Meets Tech  
 
 <div align="center">
-  
-  <!-- Cricket Batting -->
-  <img src="https://media.giphy.com/media/l41Yf2zC3j7L6sH3C/giphy.gif" width="180" alt="Cricket Shot" />
-  
-  <!-- Coding -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Animation" />
-  
-  <!-- Football Celebration -->
-  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="180" alt="Football Goal" />
+
+💡 *Blending my love for sports with code to create analytics, prediction models, and fan engagement projects.*  
 
 </div>
 
 ---
 
-## ⚡ Skills with Style  
+## ⚡ Skills  
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF5722?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF5722?style=flat-square&logo=tensorflow&logoColor=white)  
 
 </div>
 
@@ -54,34 +41,17 @@
 
 ---
 
-## 📊 GitHub Stats (Dynamic)  
+## 📊 GitHub Stats  
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ironmac17&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true)  
+<img src="https://github-readme-stats.vercel.app/api?username=Ironmac17&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=FF5722&icon_color=FFD700&text_color=ffffff&bg_color=0D1117" height="160" alt="Stats" />  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ironmac17&layout=compact&theme=radical&bg_color=0D1117&hide_border=true)  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ironmac17&theme=tokyonight&hide_border=true&background=0D1117&ring=FF5722&fire=FFD700&currStreakNum=ffffff&sideNums=ffffff&sideLabels=FF5722" height="160" alt="Streak" />  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ironmac17&theme=radical&hide_border=true&background=0D1117)  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ironmac17&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=FF5722&text_color=ffffff&bg_color=0D1117" height="160" alt="Languages" />  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ironmac17&theme=react-dark&bg_color=0D1117&hide_border=true)  
-
-</div>
-
----
-
-## ⚽ Fun Zone  
-
-<div align="center">
-  
-  <!-- Cricket Spin -->
-  <img src="https://media.giphy.com/media/xT9Igp1a7J7lmYjYzm/giphy.gif" width="150" alt="Cricket Spin" />
-
-  <!-- Football Dribble -->
-  <img src="https://media.giphy.com/media/26gsjCZpPolPr3sBy/giphy.gif" width="200" alt="Football Dribble" />
-
-  <!-- Snake Eating Contributions -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ironmac17&bg_color=0D1117&color=ffffff&line=FF5722&point=FFD700&area=true&hide_border=true&radius=15&custom_title=🔥%20Contribution%20Graph" alt="Activity Graph" />  
 
 </div>
 
@@ -91,8 +61,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ironmac17/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://ironmac17.github.io/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ironmac17/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://ironmac17.github.io/)  
 
 </div>
 
