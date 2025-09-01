@@ -1,10 +1,15 @@
 <!-- INTRO ANIMATION -->
 <div align="center">
 
-  <!-- Full-screen Typing Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=65&duration=2000&pause=800&color=FF00FF,00FFFF,FFA500,00FF00&background=1A1A1AFF&center=true&vCenter=true&width=1600&height=200&lines=⚡+Hey%2C+I'm+Nimsh+Agrawal;🎨+Creative+UI%2FUX+Designer;💻+Full-Stack+Developer;🤖+Machine+Learning+Explorer;🚀+Always+Learning+Always+Building" alt="Nimsh Agrawal Typing Banner" />
+  <!-- Animated GIF Background Banner -->
+  <img src="https://i.gifer.com/7UkE.gif" alt="animated background" width="100%" height="400px" />
 
+  <!-- Overlay Typing Banner -->
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=70&duration=2000&pause=800&color=00FFFF,FF00FF,FFFF00,FF4500&center=true&vCenter=true&width=1600&height=200&lines=⚡+Hey%2C+I'm+Nimsh+Agrawal;🎨+Creative+UI%2FUX+Designer;💻+Full-Stack+Developer;🤖+Machine+Learning+Explorer;🚀+Always+Learning+Always+Building" alt="Nimsh Agrawal Typing Banner" />
+  </p>
 </div>
+
 
 
 
