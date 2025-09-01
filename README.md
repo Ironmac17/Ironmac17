@@ -1,7 +1,7 @@
-<!-- INTRO BANNER -->
+<!-- INTRO ANIMATION -->
 <div align="center">
 
-  <!-- Custom Banner with Name Animation -->
+  <!-- Personalized Banner -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=800&lines=⚡+Hey%2C+I'm+Ironmac17+⚡;⚽+Football+Fan+|+🏏+Cricket+Lover;💻+Full-Stack+Developer+|+🤖+ML+Explorer" alt="Ironmac17 Banner" />
 
 </div>
@@ -11,24 +11,24 @@
 ## 🏏⚽ Sports Meets Tech  
 
 <div align="center">
-
+  
 💡 *Blending my love for sports with code to create analytics, prediction models, and fan engagement projects.*  
 
 </div>
 
 ---
 
-## ⚡ Skills  
+## ⚡ Skills with Style  
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF5722?style=flat-square&logo=tensorflow&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF5722?style=for-the-badge&logo=tensorflow&logoColor=white)  
 
 </div>
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats (Dynamic)  
 
 <div align="center">
 
@@ -57,12 +57,23 @@
 
 ---
 
+## ⚽ Fun Zone  
+
+<div align="center">
+
+<!-- Snake Eating Contributions -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
 ## 🌐 Connect With Me  
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ironmac17/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://ironmac17.github.io/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ironmac17/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://ironmac17.github.io/)  
 
 </div>
 
