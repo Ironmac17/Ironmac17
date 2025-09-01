@@ -1,10 +1,11 @@
 <!-- INTRO ANIMATION -->
 <div align="center">
 
-  <!-- Full-width Typing Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=2500&pause=1000&color=00C9FF&background=00000000&center=true&vCenter=true&width=1200&height=120&lines=⚡+Hey%2C+I'm+Nimsh+Agrawal;🎨+UI%2FUX+Designer;💻+Full-Stack+Developer;🤖+Machine+Learning+Explorer;🚀+Always+Learning+Always+Building" alt="Nimsh Agrawal Typing Banner" />
+  <!-- Full-screen Typing Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=65&duration=2000&pause=800&color=FF00FF,00FFFF,FFA500,00FF00&background=1A1A1AFF&center=true&vCenter=true&width=1600&height=200&lines=⚡+Hey%2C+I'm+Nimsh+Agrawal;🎨+Creative+UI%2FUX+Designer;💻+Full-Stack+Developer;🤖+Machine+Learning+Explorer;🚀+Always+Learning+Always+Building" alt="Nimsh Agrawal Typing Banner" />
 
 </div>
+
 
 
 
