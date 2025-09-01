@@ -1,10 +1,11 @@
 <!-- INTRO ANIMATION -->
 <div align="center">
 
-  <!-- Personalized Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=800&lines=⚡+Hey%2C+I'm+Nimsh+Agrawa;⚡;UI/UX Designer;💻+Full-Stack+Developer+|+🤖+ML+Explorer" alt="Ironmac17 Banner" />
+  <!-- Full-width Typing Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=2500&pause=1000&color=00C9FF&background=00000000&center=true&vCenter=true&width=1200&height=120&lines=⚡+Hey%2C+I'm+Nimsh+Agrawal;🎨+UI%2FUX+Designer;💻+Full-Stack+Developer;🤖+Machine+Learning+Explorer;🚀+Always+Learning+Always+Building" alt="Nimsh Agrawal Typing Banner" />
 
 </div>
+
 
 
 ## 👋 About Me  
